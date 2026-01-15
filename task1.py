@@ -1,4 +1,5 @@
-# Enter your color.
+def main():
+    # Enter your color.
     color1 = "pink"
 
     print(f"1) Use {color1} to roll a medium-sized ball.\n")
